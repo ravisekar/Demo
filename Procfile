@@ -1,1 +1,1 @@
-web: gunicorn Demo:wsgi
+web: gunicorn Demo.wsgi
